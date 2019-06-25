@@ -5,4 +5,6 @@ print('this file gives the sum of x and y"
 sum=x+y+z
 print sum
 v=7
+b=9
+
       
